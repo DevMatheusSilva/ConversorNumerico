@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.cabecalho{
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+}
+
+.box1{
+    padding: 1%;
+    background-color: black;
+    border: 10px inset blueviolet;
+    color: white;
+}
+
+.box2{
+    padding: 1%;
+    background-color: black;
+    border: 10px outset blueviolet;
+    color: white;
+}
